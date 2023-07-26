@@ -1,6 +1,7 @@
 package listExamples;
 
-import java.io.PrintStream;
+import model.Product;
+
 import java.util.LinkedList;
 
 public class LinkedListExample {
